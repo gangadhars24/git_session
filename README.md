@@ -1,1 +1,1 @@
-# git_session
+My git project
